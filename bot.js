@@ -414,4 +414,4 @@ if(cmd == "!status_chk"){
 
     //Checker de cc
 
-client.login('Mzk1MDM0NTc4NDMzMzQzNDg4.DSNARw.k5xW5sAXEX5_yLFGYzWdQhnxsP4'); //Token do seu bot
+client.login('Mzk1MDM0NTc4NDMzMzQzNDg4.DSNARw.k5xW5sAFGYzWdQhnxsP4'); //Token do seu bot
